@@ -1,5 +1,5 @@
 # MLKitTextToJSON
-Reimplemented Codable MLKitText to dump result as JSON
+Reimplemented Codable MLKitText to dump result as JSON String
 
 ## Usage
 
